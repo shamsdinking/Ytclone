@@ -1,0 +1,8 @@
+{
+  "name": "NexusVideo - Premium Video & Reels Platform",
+  "description": "A feature-rich YouTube clone with Studio management, Reels, monetization tracking, and AI-powered metadata generation using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
